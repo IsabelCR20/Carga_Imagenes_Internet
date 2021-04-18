@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">CargaImagenes</string>
+    <string name="json_rena">
+        {
+            \"obras\":[
+                {   \"nombre\":\"Sagrada Trinidad con la Virgen, San Juan y donantes, de Masaccio (1425-1427)\",
+                    \"url\":\"https://cdn.culturagenial.com/es/imagenes/masaccio-trinita-cke.jpg\"},
+                {   \"nombre\":\"El matrimonio Arnolfini, de Jan van Eyck (1434)\",
+                    \"url\":\"https://cdn.culturagenial.com/es/imagenes/el-matrimonio-alnorfini-cke.jpg\"},
+                {   \"nombre\":\"El nacimiento de Venus, de Sandro Botticelli (1482-1485)\",
+                    \"url\":\"https://cdn.culturagenial.com/es/imagenes/1720px-sandro-botticelli-la-nascita-di-venere-google-art-project-edited-1-cke.jpg\"},
+                {   \"nombre\":\"La Escuela de Atenas, de Rafael Sanzio (1510-1511)\",
+                    \"url\":\"https://cdn.culturagenial.com/es/imagenes/sanzio-la-escuela-de-atenas-1510-1511-fresco-500-cm-770-cm-museos-del-vaticano-vaticano.jpg\"}
+            ]
+        }
+    </string>
+    <string name="json_leo">
+        {
+            \"obras\":[
+                {
+                    \"nombre\":\"La Mona Lisa\",
+                    \"url\":\"https://cdn.culturagenial.com/es/imagenes/1455px-leonardo-da-vinci-mona-lisa-louvre-paris-cke.jpg\"
+                },
+                {
+                    \"nombre\":\"La Dama del Armiño                                                                .\",
+                    \"url\":\"https://cdn.culturagenial.com/es/imagenes/dama-armino.jpg\"
+                },
+                {
+                    \"nombre\":\"Leda y el Cisne\",
+                    \"url\":\"https://www.todocuadros.com.mx/media/catalog/product/cache/1/small_image/450x450/040ec09b1e35df139433887a97daa66f/l/e/leda-y-el-cisne-leonardo.jpg\"
+                },
+                {
+                    \"nombre\":\"La Belle Ferronniere\",
+                    \"url\":\"https://www.todocuadros.com.mx/media/catalog/product/cache/1/small_image/450x450/040ec09b1e35df139433887a97daa66f/b/e/belle_ferroniere-da-vinci.jpg\"
+                },
+                {
+                    \"nombre\":\"La Última Cena\",
+                    \"url\":\"https://www.todocuadros.com.mx/media/catalog/product/cache/1/small_image/450x450/040ec09b1e35df139433887a97daa66f/u/l/ultima-cena-reproduccion.jpg\"
+                }
+
+            ]
+        }
+    </string>
+</resources>
